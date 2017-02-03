@@ -1,0 +1,3 @@
+int: Es un número entero. Tiene una cantidad de memoria asignada proporcional a 32 bits.
+float: Es un número decimal. Tiene capacidad mayor a int
+char: Es una letra.
